@@ -1,7 +1,7 @@
 # Coffee-Machine-Master
 
 ## Description:
-CoffeeMachineMaster is a Python program that brings the experience of a virtual coffee machine to your terminal. Select your favorite coffee type, customize options, and enjoy a freshly brewed cup of coffee right from the comfort of your command line.
+Coffee Machine Master is a Python program that brings the experience of a virtual coffee machine to your terminal. Select your favorite coffee type, customize options, and enjoy a freshly brewed cup of coffee right from the comfort of your command line.
 
 ## Features:
 - Choose from popular coffee options such as espresso, latte, and cappuccino.
